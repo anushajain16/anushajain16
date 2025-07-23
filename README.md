@@ -5,6 +5,8 @@
 
 - 📄 My resume [Resume](https://drive.google.com/file/d/11DtpfZPrQeJ0qbO25pDyvxjIv7Ya08Tw/view?usp=sharing)
 
+- My Portfolio [Portfolio Website](https://mellifluous-lily-697ed2.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anusha jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anusha jain" height="30" width="40" /></a>
