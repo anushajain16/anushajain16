@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Anusha Jain</h1>
 <h3 align="center">Full Stack Development enthusiast focused on creating efficient, interactive, and user-centric web applications.</h3>
 
-- 🔭 I’m currently working on [Q&A platform like Stackoverflow](https://gorgeous-cactus-55a905.netlify.app/)
+- 🔭 I’m currently working on [Q&A platform like Stackoverflow](https://dashing-strudel-e131c2.netlify.app/)
 
 - 📄 My resume [Resume](https://drive.google.com/file/d/11DtpfZPrQeJ0qbO25pDyvxjIv7Ya08Tw/view?usp=sharing)
 
