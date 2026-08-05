@@ -14,7 +14,7 @@ Software Engineer with production experience building backend systems, AI-powere
 
 **Languages**
 
-`Java` `Python` ` `JavaScript` `SQL`
+`Java` `Python` `JavaScript` `SQL`
 
 **Backend**
 
