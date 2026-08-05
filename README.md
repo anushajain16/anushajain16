@@ -10,7 +10,7 @@ Software Engineer with production experience building backend systems, AI-powere
 * REST APIs, authentication systems, and database-driven applications
 * Cloud-based data pipelines and analytics solutions on **AWS**
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -34,27 +34,27 @@ LLMs • Prompt Engineering • PyTorch • Scikit-learn • Pandas • NumPy
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🤖 Voice AI Platform
+### Voice AI Platform
 
 Production-inspired conversational AI platform with Python services, LLM integrations, evaluation pipelines, and analytics dashboards.
 
-### 💬 Q&A Platform
+### Q&A Platform
 
 A Stack Overflow-inspired knowledge-sharing platform featuring role-based access control (RBAC), authentication, and organization-specific content.
 
-### 🏀 Optimal Lineup Predictor
+### Optimal Lineup Predictor
 
 A reinforcement learning project implementing Deep Q-Networks (DQN) to predict high-performing basketball lineups.
 
-### 🔒 Secure Message Transmission
+### Secure Message Transmission
 
 A secure messaging application using AES encryption, OTP authentication, and image steganography.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Distributed Systems
 * System Design
@@ -63,7 +63,7 @@ A secure messaging application using AES encryption, OTP authentication, and ima
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 * GitHub: https://github.com/anushajain16
 * LinkedIn: [www.linkedin.com/in/anusha-jain-99070323b](http://www.linkedin.com/in/anusha-jain-99070323b)
